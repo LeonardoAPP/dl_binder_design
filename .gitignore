@@ -9,3 +9,10 @@ af2_initial_guess/__pycache__
 test/
 mpnn_fr/ProteinMPNN/
 mpnn_fr/__pycache__
+
+# AF2 model weights, downloaded separately per README (~11GB)
+af2_initial_guess/model_weights/
+
+# Run outputs from dl_interface_design.py / predict.py example runs
+check.point
+examples/out*
